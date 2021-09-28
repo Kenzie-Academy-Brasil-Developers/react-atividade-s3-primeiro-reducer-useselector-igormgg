@@ -1,0 +1,26 @@
+.fruitsBox {
+  width: 300px;
+  height: 300px;
+  border: 2px dotted black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.fruitsBox p {
+  height: 33%;
+  padding-top: 13%;
+  box-sizing: border-box;
+}
+
+#Banana {
+  background-color: yellow;
+}
+
+#Maçã {
+  background-color: #a15856;
+}
+
+#Morango {
+  background-color: #9a1900;
+}
